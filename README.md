@@ -86,9 +86,9 @@ If you have questions, comments, or need help with code, we're here to help:
 Sign up to [stay updated with developer news](https://go.stripe.global/dev-digest).
 
 
-### E2E testing
+### Testing
 
-[Readme](./spec/README.md)
+See [TESTING.md](./TESTING.md).
 
 ## Authors
 
@@ -96,3 +96,11 @@ Sign up to [stay updated with developer news](https://go.stripe.global/dev-diges
 - [@thorwebdev](https://twitter.com/thorwebdev)
 - [@aliriaz](https://github.com/aliriaz-stripe)
 - [@charlesw](https://twitter.com/charlesw_dev)
+
+## Contributors
+
+<a href="https://github.com/stripe-samples/accept-a-payment/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=stripe-samples/accept-a-payment" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
